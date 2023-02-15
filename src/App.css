@@ -1,0 +1,24 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.App {
+  display:flex;
+  flex-direction: column;
+  width:100vw;
+  height:100vh;
+  align-items:center;
+ 
+  /* background-image: url("https: //images.pexels.com/photos/1723637/pexels-photo-1723637.jpeg?auto=compress&cs=tinysrgb&w=600"); */
+}
+.app-container{
+  display: flex;
+    flex-direction: column;
+    gap: 80px;
+  width:45%;
+/* border:1px solid black; */
+ 
+
+}
+

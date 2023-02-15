@@ -1,0 +1,10 @@
+.navbar{
+    display:flex;
+   align-items:center;
+   padding:5px;
+   color:white;
+}
+.navbar>img{
+    width:70px;
+    height:70px;
+}

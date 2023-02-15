@@ -1,0 +1,20 @@
+.SearchContainer{
+    /* margin:auto; */
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+   
+}
+.SearchContainer form{
+    width:100%;
+}
+.SearchContainer form input{
+    width:100%;
+    padding:18px;
+    border-radius: 8px;
+    outline:none;
+    font-size:18px;
+
+    /* align-self: center; */
+}

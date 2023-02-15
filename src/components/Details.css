@@ -1,0 +1,29 @@
+.box{
+    background:rgba(126, 125, 125,0.6);
+    width:fit-content;
+    padding:15px;
+    border-radius: 5px;
+    transition:all ease 01;
+    
+}
+.box:hover{
+    transform:scaleY(1.05);
+    /* border:1px dotted pink; */
+}
+.temp{
+    display:flex;
+    align-items:center;
+}
+.flex{
+    display:flex;
+    gap:15px;
+    flex-wrap:wrap;
+}
+.currenttemp{
+    font-size:25px;
+    font-weight:800;
+}
+/* .flex{
+    display:grid;
+    grid-template-columns:auto;
+} */
